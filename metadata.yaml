@@ -1,0 +1,29 @@
+_repo: The-History-of-the-Fifty-ninth-Regiment-Illinois-Volunteers_45558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45558-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lathrop, David
+    gutenberg_agent_id: '43349'
+    url: http://www.gutenberg.org/2009/agents/43349
+description: ''
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 59th (1862-1865)'
+- !lcsh 'Missouri Infantry. 9th Regiment -- 1861-1862'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Missouri'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Illinois'
+title: The History of the Fifty-ninth Regiment Illinois Volunteers
+url: http://www.gutenberg.org/ebooks/45558
